@@ -56,6 +56,7 @@ end
     end
     return true
   end
+<<<<<<< HEAD
   def reduce_to_any_true(source_array)
      i = 0 
      while i < source_array.length do
@@ -76,6 +77,8 @@ end
     
     
     
+=======
+>>>>>>> 5d464e0c913295ed2585482e7108822797d94591
     
     
     
